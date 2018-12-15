@@ -1,5 +1,4 @@
 點擊“G-E-T F-L-I-S-H"後請稍待讀取
-<！ - 保存自url =（0013）about：internet  - > 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
