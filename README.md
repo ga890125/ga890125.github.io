@@ -1,4 +1,6 @@
-<!-- saved from url=(0013)about:internet -->
+<！ - 保存自url =（0013）about：internet  - >
+＃點擊“＃G＃E＃T FLISH後請稍待讀取
+ 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
